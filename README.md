@@ -34,7 +34,7 @@
 
   
  
-  ![Snake animation](https://github.com/RaphaelPH01)
+  ![Snake animation](https://github.com/raphaelph01/raphaelph01/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
