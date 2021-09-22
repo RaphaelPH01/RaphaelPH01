@@ -1,4 +1,4 @@
-### Seja Muito Bem Vindo 👋
+### Sejam Muito Bem Vindos 👋
 
 - 🔭 
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas Na UNINOVE Vila Prudente estou no 4 Semestre ...
